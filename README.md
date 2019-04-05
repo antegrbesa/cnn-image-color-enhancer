@@ -1,6 +1,6 @@
 # cnn-project
 
-Convolutional neural network project done as a project assignment for university subject Projekt under mentorship of prof. dr. sc. Marko Subašić. 
+Convolutional neural network project done as a project assignment for university subject Projekt under mentorship of prof. dr. sc. Marko Subašić at Faculty of Electrical Engineering and Computing, Zagreb (FER). 
 Network is trained to enhance colors of an image. Dataset is not included in this repository. 
 
 Network architecture: 
